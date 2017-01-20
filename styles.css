@@ -1,0 +1,18 @@
+h1 {
+  color: #369;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+body {
+  margin: 2em;
+}
+
+.navBardemoBasicUsage md-content .ext-content {
+  padding: 50px;
+  margin: 20px;
+  background-color: #FFF2E0; }
+
+ /*
+  * See https://github.com/angular/angular.io/blob/master/public/docs/_examples/styles.css
+  * for the full set of master styles used by the documentation samples
+  */
